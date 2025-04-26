@@ -1,0 +1,16 @@
+Comandos utilizados:
+
+- mkdir curso-git
+- cd curso-git
+- git init --initial-branch=main
+- git config usar.name "Liongex"
+- git user.email "isaclimaf2@gmail.com"
+- git add dados-Isac.txt
+- git commit -m "meu primeiro commit"
+- git remote add origin https://github.com/liongex/curso-git-embarcatech.git
+- git remote -v
+- git push -u origin main
+- git add Comandos-utilizados.txt
+- git commit -m "meu segundo commit"
+- git push -u origin main
+
